@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Springboot, JavaScript (React, Angular).
 - 📫 How to reach me: paulojosevieira2011@gmail.com
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/paulinvieira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulinvieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinvieira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulinvieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinvieira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
